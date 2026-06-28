@@ -1,0 +1,13 @@
+# Frontend - never upload these
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Backend - never upload these
+backend/target/
+backend/.mvn/
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
